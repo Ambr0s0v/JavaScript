@@ -1,0 +1,61 @@
+.container{
+    width: 1200px;
+    margin: 0 auto;
+}
+
+H2{
+    text-align: center;
+    padding: 100px 0;
+    background-color: yellow;
+    margin:0;
+    text-transform: uppercase;
+    color: red;
+}
+
+.flex{
+    display: flex;
+    justify-content: space-between;
+}
+.stars{
+    text-align: center;
+}
+.stars--link--img{
+    width: 50px;
+    height: 50px;
+}
+
+a{
+    text-decoration: none;
+
+}
+
+.stars--active{
+    fill: yellow;
+}
+
+
+.swiper-slide{
+    text-align: center;
+}
+
+
+.history{
+    text-align: center;
+    font-size: 30px;
+    color: red;
+    display: block;
+}
+
+img{
+    width: 30%;
+}
+
+.history-text{
+    font-size: 22px;
+    color: green;
+    font-weight: 700;
+}
+
+span{
+    color:black;
+}
